@@ -61,7 +61,7 @@ It handles driver data such as vehicle category, distance traveled, and provides
 ## 👨‍💻 Author
 
 - Name: Balaji-Rasani
-- **Email**: *your.email@example.com*
+- **Email**: *rasanibalaji74@gmail.com*
 
 ---
 
